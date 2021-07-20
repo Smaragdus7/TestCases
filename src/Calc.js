@@ -3,5 +3,4 @@ const functions = {
         return Math.pow(val,power);
     }
 }
-
 module.exports = functions;
